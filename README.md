@@ -36,7 +36,7 @@ I enjoy turning ideas into reality through code — whether it's building mobile
 ### 📫 Let's Connect
 
 - 📬 **Email**: [gunter@programs.lol](mailto:gunter@programs.lol)  
-- 💬 **Telegram**: [@pisst](https://t.me/pisst)
+- 💬 **Telegram**: [@xgunter](https://t.me/xgunter)
 
 ---
 
