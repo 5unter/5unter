@@ -33,11 +33,4 @@ I enjoy turning ideas into reality through code — whether it's building mobile
 
 ---
 
-### 📫 Let's Connect
 
-- 📬 **Email**: [gunter@programs.lol](mailto:gunter@programs.lol)  
-- 💬 **Telegram**: [@xgunter](https://t.me/xgunter)
-
----
-
-> ⚡ **Always learning. Always building.**
