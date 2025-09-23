@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Gunter</h1>
+
 <h3 align="center">Frontend Developer | Mobile App Creator | Bot Enthusiast</h3>
 
 ---
