@@ -27,7 +27,7 @@ I enjoy turning ideas into reality through code — whether it's building mobile
 
 ---
 
-## Stats (on GitHub)
+## Stats
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=8pam&show_icons=true&theme=tokyonight" />
