@@ -3,7 +3,7 @@
 
 ---
 
-### 👨‍💻 About Me
+### About
 
 I’m a passionate **Frontend Developer** and **Mobile App Builder** with a focus on crafting clean, responsive, and user-friendly interfaces.  
 I enjoy turning ideas into reality through code — whether it's building mobile apps, sleek websites, or smart bots.
@@ -14,7 +14,7 @@ I enjoy turning ideas into reality through code — whether it's building mobile
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### Tech Stack & Tools
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
@@ -27,7 +27,7 @@ I enjoy turning ideas into reality through code — whether it's building mobile
 
 ---
 
-## 📊 Stats (on GitHub)
+## Stats (on GitHub)
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=8pam&show_icons=true&theme=tokyonight" />
