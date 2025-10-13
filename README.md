@@ -27,10 +27,13 @@ I enjoy turning ideas into reality through code — whether it's building mobile
 
 ---
 
-<p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnByZHQ4M2htYXJ0dWEwMXR6aGx6ZHlxMndyczg0eXNiZGhva2w3aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" alt="coding" width="60%" />
+## 📊 Stats (on GitHub)
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=8pam&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=8pam&layout=compact&theme=tokyonight" />
 </p>
 
----
+
 
 
